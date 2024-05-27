@@ -14,6 +14,7 @@ Direct Interaction and Feedback:Facilitates direct communication between farmers
 
 
 Objectives
+
 Empower Farmers: Provide farmers with the resources and support necessary to optimize their farming practices.
 
 Increase Productivity: Leverage expert knowledge to help farmers increase productivity and achieve sustainable agricultural success.
