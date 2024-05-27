@@ -3,6 +3,7 @@
 AgriK_Consult is a web-based application designed to seamlessly connect farmers with credible agricultural consultants. By leveraging advanced matchmaking algorithms, our platform efficiently pairs farmers with consultants tailored to their specific needs and environmental conditions. This ensures that farmers receive relevant expertise and guidance suited to their unique circumstances.
 
 Key Features
+
 Advanced Matchmaking:Uses sophisticated algorithms to pair farmers with consultants based on specific needs, crop types, and local environmental conditions.
 Transparency and Accountability:Farmers can review and rate consultant services, promoting transparency and helping future users make informed decisions.
 Interactive Q&A Forum:A robust forum where farmers can pose inquiries and receive timely responses from a diverse pool of consultants, enhancing knowledge-sharing and problem-solving within the agricultural community.
